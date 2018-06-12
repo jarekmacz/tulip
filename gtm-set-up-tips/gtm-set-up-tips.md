@@ -1,3 +1,8 @@
+---
+post_title: 'GTM tips'
+layout: Default
+published: false
+---
 #GTM Set up Tips
 
 ## #1 Structure your account
