@@ -1,10 +1,10 @@
 ---
-ID: 322
+ID: 329
 post_title: GTM tips
 author: user
 post_excerpt: ""
 layout: default
-permalink: https://leroi.academy/?p=322
+permalink: https://leroi.academy/?p=329
 published: false
 ---
 # GTM Set up Tips
